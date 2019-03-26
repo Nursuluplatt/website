@@ -46,10 +46,19 @@ div {
 
   }
  img {
-     border: rgb(165, 184, 236);
+     /* border: rgb(165, 184, 236); */
      margin-left: 30%;
      margin-right: 50%;
      margin-top: 0%;
      width: 350px;
      height: 250px;
+ }
+
+ #img{
+    width: 151px;
+    border: solid; 
+    height: 67px;
+    margin-right: 50%;
+    margin-left: 40%;
+    border-color: rgb(17, 115, 228);
  }
