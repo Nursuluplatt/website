@@ -3,8 +3,8 @@ size: 20pt;
 color: rgb(6, 138, 247) ;
 }
 h1 {
-    size: 300pt;
-    color: rgb(160, 167, 243);
+    size: 400pt;
+    color: rgba(233, 71, 165, 0.968);
     font-style: bold;
     text-align: center;
     background-image: url("palebluerose.jpg");
