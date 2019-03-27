@@ -12,8 +12,15 @@ h1 {
     background-position: center;
     background-size: cover;
     background-size: 300;
+    animation-name: example;
+    animation-duration: 5s;
     
 }
+@keyframes example {
+    from {color: rgba(233, 71, 165, 0.968);}
+    to {color: rgb(130, 48, 245);}
+  }
+
 h2 {
     color: rgb(6, 138, 247);
 }
